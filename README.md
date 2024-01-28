@@ -1,27 +1,22 @@
-# Worldia
-A responsive social media app where users can post images, like and unlike other users posts, comment on their posts, follow other users and much more
+
+A responsive social media app where users can post images, interact with other user's posts, follow other users, and much more
 
 
 ## Functionalities:
-- Signin
+- Sign in
 - Signup
-- Reset password if the user forgot the password
+- Reset password
 - Create post
-- Like posts
-- Unline posts
 - View the users who liked the post
 - Comment on posts
-- Delete the comment
 - Delete the post
 - View user profile
-- View other users profile
 - Follow users
 - Edit the profile photo
 - Delete the account
 - View individual post
 - Search users by their email
-- User receives a welcome email after signing up
-- User receives an email for resetting the password
+- User receives Email notifications
 - Responsive website
 
 ## Libraries used:
@@ -29,10 +24,10 @@ A responsive social media app where users can post images, like and unlike other
 - mongoose
 - bcryptjs
 - joi
-- jsonwebtoken
+- JSON web token
 - cors
 - express-async-errors
-- nodemailer
+- nod emailer
 - nodemailer-sendgrid-transport
 - axios
 - materialize-css
